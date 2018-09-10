@@ -1,0 +1,27 @@
+
+you have selected DOMESTIC CONSUMERS (DC)
+Categories of DOMESTIC CONSUMERS (DC)
+
+Domestic CONSUMERS - I (DC - I) :-
+		This is applicable to domestic premises in notified rural areas for a load up to 2 kW
+not covered by areas indicated under DC-II & not being fed from urban/town feeders.
+
+2 .DOMESTIC CONSUMERS - II (DC - II) :- 
+		This is applicable for domestic premises in urban areas covered by Notified are
+a committee/Municipality/Municipal Corporation/Development Authority/All
+District and Sub-divisional towns/Block Head Quarters/Industrial areas/Contiguous
+Sub urban areas and also areas getting power from Urban/Town feeders for single
+phase supply for load up to 7 kW and three phase supply for load of 5 kW and
+above. Rural consumers having sanctioned load above 2 kW will also come under this category.
+
+3 .DOMESTIC CONSUMERS - III (DC - III) :- 
+		This is applicable for registered societies for their residential colonies having not
+less than 15 houses/flats in the colony, Residential colonies/multistoried residentia
+complexes taking load in bulk at a single point with a minimum load of 2 kW per
+flat/house and maximum total load up to 70 kW.
+
+press 1 for DOMESTIC CONSUMERS - I (DC - I)
+press 2 for DOMESTIC CONSUMERS - II (DC - II)
+press 3 for DOMESTIC CONSUMERS - III (DC - III)
+
+Enter your choice :-

@@ -1,0 +1,24 @@
+DOMESTIC CONSUMERS (DC) :-    This tariff is applicable for supply of electricity for domestic purposes such as lights
+fans, televisions, heaters, air-conditioners, washing machines, air-coolers, geysers,
+refrigerators, ovens, mixers and other domestic appliances including motor pumps 
+for lifting water for domestic purposes. This is also applicable to the common
+facilities in the multistoried, purely residential apartments, buildings.
+
+
+
+NON-DOMESTIC CONSUMERS (NDC) :-    This is applicable for supply of electrical energy for non-domestic consumers having
+sanctioned/contracted load up to 70 kW, using electrical energy for light, fan and
+power loads for non-domestic purposes like shops, hospitals, nursing homes, 
+clinics, dispensaries, restaurants, hotels, clubs, guest houses, marriage houses,
+public halls, show rooms, centrally air-conditioning units, offices, commercial
+establishments, cinemas, X-ray plants, non-government schools, colleges, libraries,  Government and semi–government offices etc.
+
+
+
+
+Press 1 if you are DOMESTIC CONSUMER.(DC)
+
+press 2 if you are  NON-DOMESTIC CONSUMER.(NDC) 
+
+
+enter your choice :- 

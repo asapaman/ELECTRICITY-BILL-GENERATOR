@@ -1,0 +1,18 @@
+you have selected NON-DOMESTIC CONSUMERS (NDC)
+Categories of NON-DOMESTIC CONSUMERS (NDC)
+
+1 .NON-Domestic CONSUMERS - I (NDC - I) :- 
+		Applicable to loads up to 2 kW in rural areas not covered by areas indicated under
+NDS – II and not being fed from urban/town feeders.
+Fuel and Power Purchase Cost Adjustment (FPPCA) charges as applicable will be charged extra.
+
+2 .NON-Domestic CONSUMERS - II (NDC - II) :-
+		Applicable to loads up to 70 kW in urban areas covered by Notified Area
+Committees/Municipalities/Municipal Corporations/Regional Development
+Authorities/District and Sub–divisional towns/Block headquarters/Industrial
+areas/contiguous sub urban areas getting power from urban/town feeders.
+
+press 1 for NON-DOMESTIC CONSUMERS - I (NDC - I)
+press 2 for NON-DOMESTIC CONSUMERS - II (NDC - II)
+
+Enter your choice :- 
